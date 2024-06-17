@@ -8472,8 +8472,8 @@ h1, h2, h3, h4, h5,
             text-align: center; } }
         .owl-carousel.home-slider .slider-item .slider-text .one-third {
           width: 60%;
-          position: relative;
           margin-top: 85px ;
+          position: relative;
           z-index: -1; }
           .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
             position: absolute;
